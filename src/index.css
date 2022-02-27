@@ -30,6 +30,7 @@ header {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
+  font-weight: bold
 }
 
 .card {
@@ -158,10 +159,12 @@ input:focus {
 
 .btn-primary {
   background-color: #202142;
+  font-weight: bold
 }
 
 .btn-secondary {
   background: #ff6a95;
+  font-weight: bold
 }
 
 .btn:hover {
