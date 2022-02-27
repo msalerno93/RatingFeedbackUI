@@ -64,7 +64,7 @@ header {
 .rating li,
 .num-display {
   position: relative;
-  background: #f4f4f4;
+  background: #030303;
   width: 50px;
   height: 50px;
   padding: 10px;
@@ -89,8 +89,8 @@ header {
 
 .rating li:hover,
 .num-display {
-  background: #ff6a95;
-  color: #fff;
+  background: #6101af;
+  color: rgb(2, 0, 0);
 }
 
 [type='radio'] {
@@ -98,7 +98,7 @@ header {
 }
 
 [type='radio']:checked ~ label {
-  background: #ff6a95;
+  background: #6101af;
   color: #fff;
 }
 
