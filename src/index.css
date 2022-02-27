@@ -33,12 +33,13 @@ header {
 }
 
 .card {
-  background-color: #fff;
-  color: #333;
+  background-color: rgb(7, 7, 7);
+  color: rgb(253, 253, 253);
   border-radius: 15px;
   padding: 40px 50px;
   margin: 20px 0;
   position: relative;
+  font-weight: bold;
 }
 
 .card.reverse {
